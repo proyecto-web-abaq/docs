@@ -1,5 +1,5 @@
 [project]
-site_url = "https://abaq-docs.github.io/docs/"
+site_url = "https://proyecto-web-abaq.github.io/docs/"
 site_name = "ABAQ — Documentación"
 site_description = "Documentación técnica y operativa de la plataforma ABAQ de gestión de servicio social."
 site_author = "Equipo de Desarrollo ABAQ"
@@ -32,6 +32,7 @@ features = [
   "content.footnote.tooltips",
   "content.tabs.link",
   "content.tooltips",
+  "navigation.expand",
   "navigation.footer",
   "navigation.indexes",
   "navigation.instant",

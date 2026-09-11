@@ -16,6 +16,10 @@ nav = [
   { "Requisitos del sistema (SRS)" = "srs.md" },
   { "Tareas y progreso" = "tasks.md" },
   { "Guía de lectura del código" = "codebase-reading-guide.md" },
+  { "Reportes" = [
+    { "Índice" = "reports/index.md" },
+    { "Reporte No. 2 — v1.1.0" = "reports/report2-2026-09-09.md" },
+  ]},
 ]
 
 [project.theme]

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Zensical build output
+site/
+
+# Zensical cache
+.cache/
+
+# Reports — compiled binaries (keep source .tex and screenshots, ignore heavy output)
+reports/**/*.pdf
+reports/**/*.docx
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# uv
+.python-version

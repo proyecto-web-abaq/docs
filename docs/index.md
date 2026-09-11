@@ -1,44 +1,61 @@
 ---
-icon: lucide/book-open
+title: Inicio
+icon: lucide/home
+hide:
+  - navigation
+  - toc
 ---
 
-# ABAQ — Documentación
+# ABAQ — Portal de Documentación
 
-Bienvenido al sitio de documentación de **ABAQ**, la plataforma digital para la gestión del servicio social universitario.
+Bienvenido a la documentación técnica y operativa de **ABAQ**, la plataforma digital para la gestión del servicio social.
 
-## ¿Qué es ABAQ?
+***
 
-ABAQ es una plataforma web que centraliza la administración del servicio social para estudiantes universitarios y sus coordinadores. Permite registrar estudiantes, gestionar actividades, validar horas y llevar el seguimiento documental de cada expediente.
+<div class="grid cards" markdown>
 
-## Secciones de esta documentación
+-   :lucide-book-open: **[Guías y Manuales](guias/index.md)**
 
-| Sección | Descripción |
-|---|---|
-| [Arquitectura](architecture.md) | Diseño técnico del sistema, componentes y decisiones de arquitectura |
-| [Requisitos del sistema (SRS)](srs.md) | Especificación de requerimientos funcionales y no funcionales |
-| [Tareas y progreso](tasks.md) | Listado de tareas de desarrollo y estado actual del proyecto |
-| [Guía de lectura del código](codebase-reading-guide.md) | Mapa del código fuente para nuevos colaboradores |
+    ---
 
-## Estado del proyecto
+    Instrucciones paso a paso, manuales de usuario y guías de desarrollo organizadas en carpetas anidadas.
 
-!!! info "Versión actual: v1.1.0"
-    El proyecto se encuentra en desarrollo activo en la rama `dev`.
-    Los cambios más recientes incluyen protección de rutas con JWT en el backend
-    y nuevas pantallas de administración en el frontend.
+-   :lucide-layout-template: **[Arquitectura](architecture.md)**
 
-## Tecnologías
+    ---
+
+    Diseño del sistema, diagramas C4 y decisiones técnicas.
+
+-   :lucide-list-checks: **[Requisitos (SRS)](srs.md)**
+
+    ---
+
+    Especificaciones de requerimientos funcionales y no funcionales.
+
+-   :lucide-check-circle: **[Tareas y progreso](tasks.md)**
+
+    ---
+
+    Seguimiento del estado de desarrollo y tareas atómicas.
+
+</div>
+
+## Tecnologías Principales
+
+Aquí tienes un ejemplo de **secciones con pestañas (Tabs)** para organizar contenido técnico:
 
 === "Backend"
-    - **Node.js** con Express
-    - **MongoDB** (Atlas) con Mongoose
-    - **JWT** para autenticación
-    - **GridFS** para almacenamiento de archivos
+    * **Node.js** con Express
+    * **MongoDB** (Atlas) con Mongoose
+    * **JWT** para autenticación
 
 === "Frontend"
-    - **Angular** (standalone components)
-    - **SCSS** para estilos
-    - **RxJS** para programación reactiva
+    * **Angular** (standalone components)
+    * **SCSS** para estilos
+    * **RxJS** para programación reactiva
 
-=== "Infraestructura"
-    - **GitHub Actions** para CI/CD
-    - **Zensical** para esta documentación
+=== "DevOps"
+    * **GitHub Actions** (CI/CD)
+    * **Zensical** (Documentación Estática)
+    * **Docker** (Contenedorización)
+

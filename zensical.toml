@@ -12,6 +12,15 @@ copyright = "Copyright &copy; 2026 ABAQ"
 
 nav = [
   { "Inicio" = "index.md" },
+  { "Guías" = [
+    { "Índice" = "guias/index.md" },
+    { "Usuario" = [
+      { "Manual" = "guias/usuario/index.md" }
+    ]},
+    { "Desarrollo" = [
+      { "Setup" = "guias/desarrollo/index.md" }
+    ]}
+  ]},
   { "Arquitectura" = "architecture.md" },
   { "Requisitos del sistema (SRS)" = "srs.md" },
   { "Tareas y progreso" = "tasks.md" },

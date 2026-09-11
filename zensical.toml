@@ -6,9 +6,9 @@ site_author = "Equipo de Desarrollo ABAQ"
 
 copyright = "Copyright &copy; 2026 ABAQ"
 
-# repo_url = "https://github.com/abaq-docs/docs"
-# repo_name = "abaq-docs/docs"
-# edit_uri = "edit/main/docs/"
+repo_url = "https://github.com/proyecto-web-abaq/docs"
+repo_name = "proyecto-web-abaq/docs"
+edit_uri = "edit/main/docs/"
 
 nav = [
   { "Inicio" = "index.md" },

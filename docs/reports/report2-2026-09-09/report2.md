@@ -16,8 +16,8 @@ icon: lucide/file-text
 !!! abstract "Descargas"
     Puedes descargar este documento en los siguientes formatos:
     
-    - :lucide-file-text: **[Descargar PDF](report2-2026-09-09/latex/report2.pdf)**
-    - :lucide-file: **[Descargar Word (.docx)](report2-2026-09-09/latex/report2.docx)**
+    - :lucide-file-text: **[Descargar PDF](latex/report2.pdf)**
+    - :lucide-file: **[Descargar Word (.docx)](latex/report2.docx)**
 
 ## Resumen ejecutivo
 
@@ -117,35 +117,35 @@ Nuevo servicio para subir documentos PDF directamente desde la plataforma sin sa
 
 ### Panel de administración
 
-![Panel de administración — métricas generales](report2-2026-09-09/attachments/Capture-2026-09-10-180327.png)
+![Panel de administración — métricas generales](attachments/Capture-2026-09-10-180327.png)
 
-![Panel de administración — agenda y resumen](report2-2026-09-09/attachments/Capture-2026-09-10-180430.png)
+![Panel de administración — agenda y resumen](attachments/Capture-2026-09-10-180430.png)
 
 ### Gestión de estudiantes
 
-![Lista de estudiantes con buscador y horas acreditadas](report2-2026-09-09/attachments/Capture-2026-09-10-180521.png)
+![Lista de estudiantes con buscador y horas acreditadas](attachments/Capture-2026-09-10-180521.png)
 
-![Expediente del estudiante — información completa](report2-2026-09-09/attachments/Capture-2026-09-10-180604.png)
+![Expediente del estudiante — información completa](attachments/Capture-2026-09-10-180604.png)
 
-![Expediente del estudiante — documentos del expediente](report2-2026-09-09/attachments/Capture-2026-09-10-180639.png)
+![Expediente del estudiante — documentos del expediente](attachments/Capture-2026-09-10-180639.png)
 
-![Expediente del estudiante — documentos y actividades](report2-2026-09-09/attachments/Capture-2026-09-10-180830.png)
+![Expediente del estudiante — documentos y actividades](attachments/Capture-2026-09-10-180830.png)
 
 ### Actividades disponibles
 
-![Lista de actividades — parte 1](report2-2026-09-09/attachments/Capture-2026-09-10-180920.png)
+![Lista de actividades — parte 1](attachments/Capture-2026-09-10-180920.png)
 
-![Lista de actividades — parte 2](report2-2026-09-09/attachments/Capture-2026-09-10-180950.png)
+![Lista de actividades — parte 2](attachments/Capture-2026-09-10-180950.png)
 
 ### Panel del estudiante
 
-![Panel del estudiante — bienvenida y perfil](report2-2026-09-09/attachments/Capture-2026-09-10-181022.png)
+![Panel del estudiante — bienvenida y perfil](attachments/Capture-2026-09-10-181022.png)
 
-![Panel del estudiante — actividades pendientes](report2-2026-09-09/attachments/Capture-2026-09-10-181109.png)
+![Panel del estudiante — actividades pendientes](attachments/Capture-2026-09-10-181109.png)
 
-![Panel del estudiante — historial de actividades](report2-2026-09-09/attachments/Capture-2026-09-10-181123.png)
+![Panel del estudiante — historial de actividades](attachments/Capture-2026-09-10-181123.png)
 
-![Panel del estudiante — progreso y actividades asignadas](report2-2026-09-09/attachments/Capture-2026-09-10-181135.png)
+![Panel del estudiante — progreso y actividades asignadas](attachments/Capture-2026-09-10-181135.png)
 
 ---
 

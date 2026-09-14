@@ -16,8 +16,8 @@ icon: lucide/file-text
 !!! abstract "Descargas"
     Puedes descargar este documento en los siguientes formatos:
     
-    - :lucide-file-text: **[Descargar PDF](report1-2026-08-19/latex/report1.pdf)**
-    - :lucide-file: **[Descargar Word (.docx)](report1-2026-08-19/latex/report1.docx)**
+    - :lucide-file-text: **[Descargar PDF](latex/report1.pdf)**
+    - :lucide-file: **[Descargar Word (.docx)](latex/report1.docx)**
 
 ## Resumen ejecutivo
 
@@ -33,61 +33,19 @@ Este documento resume los acuerdos y requerimientos recabados en la primera reun
 
 ## 2. Cambios en el Servidor (Backend)
 
-### Protección de rutas con autenticación
-
-Se acordó que el sistema requerirá autenticación obligatoria. El acceso de los estudiantes a módulos administrativos estará bloqueado a nivel de sistema.
-
-### Mejoras en la configuración
-
-*Pendiente por implementar / Falta de información para esta etapa.*
-
-### Resumen de cambios — Backend
-
-| Área | Descripción del cambio |
-|---|---|
-| Seguridad | Definición de separación estricta entre perfiles de Administrador y Estudiante. |
-| Infraestructura | Validación del almacenamiento en MongoDB (500 MB) como escalable y suficiente. |
+Sin información, no requerido.
 
 ---
 
 ## 3. Cambios en la Aplicación Web (Frontend)
 
-### Panel de Administración
-
-*Pendiente. Se presentará la distinción de vistas en la próxima sesión.*
-
-### Vista de Detalle de Estudiante
-
-*Falta de información / Pendiente de implementación.*
-
-### Lista de Estudiantes
-
-*Pendiente. Se acordó alimentar la plataforma con datos de prueba realistas para la próxima sesión.*
-
-### Lista de Actividades
-
-Se establecieron los requerimientos para la gestión de campañas (ej. jornadas de esterilización) y el registro de asistencia con control de entradas y salidas.
-
-### Panel del Estudiante
-
-*Pendiente por presentar en la siguiente revisión.*
-
-### Carga de Archivos
-
-Se solicitó la capacidad de automatizar la generación de constancias de término o cartas de participación desde el sistema de forma digital.
-
-### Resumen de cambios — Frontend
-
-| Área | Descripción del cambio |
-|---|---|
-| Prototipo | Presentación y validación del diseño visual inicial con ABAQ Querétaro. |
-| Requerimientos | Definición de funcionalidades para campañas y generación de constancias. |
+Sin información, no requerido.
 
 ---
 
 ## 4. Evidencia Visual
 
-*Falta de información. Pendiente de anexar capturas oficiales de las pantallas mostradas en esta sesión.*
+Falta de información.
 
 ---
 

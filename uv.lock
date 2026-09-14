@@ -21,7 +21,7 @@ wheels = [
 ]
 
 [[package]]
-name = "docs"
+name = "documentation"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

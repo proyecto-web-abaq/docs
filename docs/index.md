@@ -18,25 +18,19 @@ Bienvenido a la documentación técnica y operativa de **ABAQ**, la plataforma d
 
     ---
 
-    Instrucciones paso a paso, manuales de usuario y guías de desarrollo organizadas en carpetas anidadas.
+    Instrucciones paso a paso, manuales de usuario y guías de desarrollo de la plataforma.
 
--   :lucide-layout-template: **[Arquitectura](architecture.md)**
-
-    ---
-
-    Diseño del sistema, diagramas C4 y decisiones técnicas.
-
--   :lucide-list-checks: **[Requisitos (SRS)](srs.md)**
+-   :lucide-layout-template: **[Documentación Técnica](technical/index.md)**
 
     ---
 
-    Especificaciones de requerimientos funcionales y no funcionales.
+    Manuales técnicos sobre el diseño del sistema, arquitectura y seguimiento de tareas de desarrollo.
 
--   :lucide-check-circle: **[Tareas y progreso](tasks.md)**
+-   :lucide-list-checks: **[Reportes](reports/index.md)**
 
     ---
 
-    Seguimiento del estado de desarrollo y tareas atómicas.
+    Documentación y reportes quincenales del progreso y avance del proyecto.
 
 </div>
 

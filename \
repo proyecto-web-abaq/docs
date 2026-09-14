@@ -22,15 +22,14 @@ nav = [
     ]}
   ]},
   { "Documentación Técnica" = [
-    { "Índice" = "technical/index.md" },
     { "Arquitectura" = "technical/architecture.md" },
     { "Requisitos (SRS)" = "technical/srs.md" },
     { "Tareas y progreso" = "technical/tasks.md" },
-  ]},
-  { "Reportes" = [
+    { "Reportes" = [
       { "Índice" = "reports/index.md" },
       { "Reporte No. 2" = "reports/report2-2026-09-09.md" },
     ]}
+  ]}
 ]
 
 [project.theme]
